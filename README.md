@@ -1,23 +1,21 @@
+<p align="center">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=Sapin07&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true" alt="ilustração do status do github">
+  
+<img
+        align="right"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapin07&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+</p>
 
-# Hello World 👋
 
-I’m Vinicius Cunha, an aspiring web programmer and game development enthusiast. Currently completing a technical course in IT for the web with the goal of building a large repertoire in the area.
+<div align="center">
+  
+[![TechStack](https://skillicons.dev/icons?i=java,php,js,ts,nodejs,html,css,git)](https://skillicons.dev)
+</div>
 
-## About me
-👩‍💻 Working on my completion course work (a web simulator for studying physics)
-
-🧠 Java Beginner
-
-🤔 Looking for help about Unity
-
-💬 Ask me about PHP (If I don't know, we'll solve it together) 
-
-👾 Star Wars fan in spare time.
-
-#### ☕ May the force of coffee stay with you
-
-## Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
-
-## 📫 Contact
+<div align="center">
+  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-cunha-b98bb8270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/v__cunha?igsh=dGEwaGU0bWowOWJh)
+
+</div>
